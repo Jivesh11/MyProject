@@ -12,3 +12,5 @@ From Eclipse
 
 
 From Repository........
+
+Eclipse Conflicts Checks
