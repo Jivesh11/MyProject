@@ -13,4 +13,10 @@ From Eclipse
 
 From Repository........
 
+<<<<<<< HEAD
 Eclipse Conflicts Checks
+=======
+
+
+Hello Checking conflicts
+>>>>>>> branch 'master' of https://github.com/Jivesh11/MyProject.git
